@@ -56,7 +56,6 @@ User Can Brows Data and their details only when they are logged in and they can 
 
 ## USER DETAILS
 USERS ARE ABLE TO EDIT THEIR PROFILE
-<img width="1728" alt="Screenshot 2024-06-07 at 3 20 11 PM" src="https://github.com/Nadiroglu/final-project/assets/150474907/e10deb52-a9fa-4f55-a54a-93f9d32b7a6c">
 <img width="1718" alt="Screenshot 2024-06-07 at 7 18 30 PM" src="https://github.com/brentnettles/Flatiron-Phase1-Project/assets/150474907/5a7cdcf2-a153-4617-89ba-4cfdfcbd17d2">
 
 
