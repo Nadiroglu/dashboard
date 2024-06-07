@@ -1,23 +1,15 @@
-# FlatEvent and Event Ticketing Website
+## User DashBoard
 
-Think about a social media page where there people who likes the same sports club as you do and i did it by using React for the frontend and Flask for the backend.
-
-## Overview
-
-The application allows users to browse fan clubs and make requests to join them. Each fan club is created by a user, who becomes the admin of that club. Admins have access to a special admin dashboard.
-After a user's request is accepted by the admin, they become a member of the club and can join the community.
-They can follow new people, get to know others, arrange meetings, engage in live chats, and connect with millions of people worldwide.
-Each User has their Hashed and Saved, login information.
+# Overview
+The UserDashboard application is a comprehensive tool designed to streamline user management tasks within an organization or a system. It provides administrators and authorized personnel with a centralized platform to efficiently edit, add, or delete user information as per the organization's requirements. Below is an overview of its key features and functionalities and dependencies:
 
 
 ## Technologies Used
+Frontend: React, Angular
+Backend: Java, Spring Boot
+Database: Amazon RDS
+Hosting and Infrastructure: AWS
 
-- React: A JavaScript library for building user interfaces.
-- Angular: A JavaScript library for building user interfaces.
-- Java: An Amazing backend Language
-- Amazon RDS
-- AWS
-- Spring Boot
 
 # Angular
 
